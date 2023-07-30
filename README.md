@@ -17,6 +17,7 @@ Insurance Charges Prediction is a web application built with Flask that allows u
 ## Usage
 
 1. Open your web browser and navigate to http://localhost:5050 to access the application.
+   ![img.jpeg](Medical_Insurance_Charge_Prediction/home1.jpeg)
 2. On the homepage, enter the required details such as age, sex, BMI, etc.
 3. Click the "Submit" button to see the predicted insurance charges.
 
